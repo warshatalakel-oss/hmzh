@@ -9,7 +9,7 @@ const PRINCIPAL_USER: User = {
     name: 'تحسين هارون مهدي حمد',
     schoolName: 'متوسطة الحمزة للبنين',
     schoolLevel: 'متوسطة',
-    code: 'AoAo88cv'
+    code: 'Qp!@#8070'
 };
 
 export default function useAuth() {
